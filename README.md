@@ -37,3 +37,18 @@ Durante el desarrollo de este proyecto, adquirí conocimientos importantes sobre
    ```bash
    git clone https://github.com/Blaschu/url-shortener.git
    cd url-shortener
+
+2. Instala las dependencias:
+    npm install
+
+3. Asegurate de tener MongoDB corriendo en tu maquina. Luego, crea una base de datos llamada urlShortener:
+    mongod
+
+4. inicia el servidor:
+    npm start
+
+5. Abre tu navegador y visita http://localhost:5000.
+
+
+Licencia
+Este proyecto está bajo la licencia MIT. Puedes utilizarlo y modificarlo libremente para tus propios fines.
