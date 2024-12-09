@@ -35,5 +35,5 @@ Durante el desarrollo de este proyecto, adquirí conocimientos importantes sobre
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tuusuario/url-shortener.git
+   git clone https://github.com/Blaschu/url-shortener.git
    cd url-shortener
